@@ -11,7 +11,6 @@ jupyterlite-pyodide-kernel==0.6.1
 jupyterlite-javascript-kernel==0.3.0
 
 # Language support (optional)
-jupyterlab-language-pack-fr-FR
 jupyterlab-language-pack-zh-CN
 
 # P5 kernel (optional)
@@ -43,3 +42,25 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=6,<7
 bqplot
+jupyterlab-night
+jupyterlite-pyodide-kernel
+
+tqdm
+bs4
+fastapi
+Flask
+huggingface-hub
+Jinja2
+mysql-connector-python
+numpy
+pandas
+nltk
+openai
+openpyxl
+pillow
+PyMySQL
+pytz
+PyYAML
+pydantic
+SQLAlchemy
+uvicorn
